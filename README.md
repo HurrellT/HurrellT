@@ -1,6 +1,10 @@
 ## Hi! I'm Tomás Hurrell
 
-#### I'm a passionate **Front-End Developer**, that loves expressing through the art of building beautiful and maintainable software, while keeping in mind the design and user experience, altogether.
+#### I’m a passionate **Team Lead and Front-End Lead Developer** who loves expressing myself through the art of building beautiful and maintainable software, always keeping product, design and user experience in mind.
+
+#### Musician and photography aficionado.
+
+#### Constantly seeking improvement.
 
 <p>&nbsp;</p>
 
